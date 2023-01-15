@@ -1,0 +1,28 @@
+5
+5
+0 0 Static  L L U U
+0 1 Solid  L L L L
+0 2 Static  L U L L
+0 3 Rotating  L L L L
+0 4 Static  L L L L
+1 0 Rotating  L U L U
+1 1 Static  U L L L
+1 2 Static  U L L L
+1 3 Static  L L L L
+1 4 Solid  L L L L
+2 0 Static  L U L L
+2 1 Static  L L L L
+2 2 Static  L L L L
+2 3 Rotating  L L L L
+2 4 Static  L L L L
+3 0 Static  L L U L
+3 1 Static  L U U L
+3 2 Static  U L U L
+3 3 Static  L U U U
+3 4 Static  L L L L
+4 0 Static  L L L L
+4 1 Static  L L U L
+4 2 Static  L L L L
+4 3 Static  L L L L
+4 4 Rotating  L L L L
+
