@@ -1,0 +1,11 @@
+# gitignore file yippee
+
+# java classes
+*.class
+
+# file archives
+*.zip
+*.tar
+*.gz
+
+# that's it for now :D
